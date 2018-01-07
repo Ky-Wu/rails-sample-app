@@ -69,11 +69,6 @@ class User < ApplicationRecord
 
   private
 
-    def create_activation_digest
-      self.activation_token = User.new_token
-      update_attribute(:remember_digest, User.digest(remember_token))
-    end
-
     # Converts email to all lower-case
     def downcase_email
       email.downcase!
