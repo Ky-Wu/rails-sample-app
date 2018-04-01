@@ -9,6 +9,10 @@ authorization, authentication, and micropost functionality. Users are also
 able to follow each other and see microposts from their followers in a 
 "feed", similar to Twitter. 
 
+## Heroku deployment
+
+Want to see this website in action? Go to https://powerful-woodland-31030.herokuapp.com/to see the application deployed through Heroku with a seeded database (which is why there are many example users already created).
+ 
 ## License
 
 All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
