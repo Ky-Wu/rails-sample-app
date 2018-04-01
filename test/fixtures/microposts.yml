@@ -46,3 +46,13 @@ winner:
   content: "Just won Battle of Stalingrad!"
   created_at: <%= 4.hours.ago %>
   user: chuikov
+
+lovely:
+  content: "You're a lovely person!"
+  created_at: <%= 6.years.ago %>
+  user: random
+ 
+randomness:
+  content: "Why do we try to create order out of chaos?"
+  created_at: <%= 10.years.ago %>
+  user: random

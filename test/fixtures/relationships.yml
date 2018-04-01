@@ -1,0 +1,19 @@
+one:
+  follower: chuikov
+  followed: benedict
+
+two:
+  follower: kyle
+  followed: chuikov
+
+three:
+  follower: benedict
+  followed: chuikov 
+
+four:
+  follower: benedict
+  followed: kyle
+
+five:
+  follower: chuikov
+  followed: kyle

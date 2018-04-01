@@ -14,8 +14,15 @@ benedict:
   activated_at: <%= Time.zone.now %>
 
 chuikov:
-  name: Vasily chuikov
+  name: Vasily Chuikov
   email: chuikov@example.gov
+  password_digest: <%= User.digest('password') %>
+  activated: true
+  activated_at: <%= Time.zone.now %> 
+
+random:
+  name: Random Guy
+  email: ramdom@random.org
   password_digest: <%= User.digest('password') %>
   activated: true
   activated_at: <%= Time.zone.now %> 
