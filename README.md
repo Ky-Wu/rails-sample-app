@@ -1,9 +1,13 @@
 # Ruby on Rails Tutorial sample application
 
-This is the sample application for
+This is the sample application I created for
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+by [Michael Hartl](http://www.michaelhartl.com/). This app was made solely for
+educational purposes and but is a fully functioning web application with user 
+authorization, authentication, and micropost functionality. Users are also
+able to follow each other and see microposts from their followers in a 
+"feed", similar to Twitter. 
 
 ## License
 
@@ -39,3 +43,6 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+
+Contact the owner of this repository through email at kyleiinwu@gmail.com.
+
