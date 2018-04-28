@@ -11,7 +11,7 @@ able to follow each other and see microposts from their followers in a
 
 ## Heroku deployment
 
-Want to see this website in action? Go to https://powerful-woodland-31030.herokuapp.com/to see the application deployed through Heroku with a seeded database (which is why there are many example users already created).
+Want to see this website in action? Go to https://powerful-woodland-31030.herokuapp.com see the application deployed through Heroku with a seeded database (which is why there are many example users already created).
  
 ## License
 
